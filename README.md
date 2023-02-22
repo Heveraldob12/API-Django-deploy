@@ -9,7 +9,7 @@ Descrição:
 | :rocket: URL         | https://cursos.alura.com.br/course/api-django-3-validacoes-buscas-filtros-deploy
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-<p align="left"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="heveraldob12" width="330" height="230"  /> </p>
+<p align="left"> <img src="https://github.com/Heveraldob12/API-Django-deploy/blob/master/Deploy-AWS.png" alt="heveraldob12" width="330" height="230"  /> </p>
 
 
 ## Detalhes do projeto
