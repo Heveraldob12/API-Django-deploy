@@ -29,7 +29,7 @@ This API will serve to train the refinement of searches, visualization, validati
 No curso modo de deploy usado foi o [Heroku](https://id.heroku.com), entretanto eu estava com problemas nessa plataforma e resolvi fazer o deploy na [AWS](https://aws.amazon.com/pt/console/)
 Qualquer dúvida sobre esse deploy ou o porquê eu usei a AWS em específico, por favor entre em contato.
 
-----
+******
 
 In the course the deploy mode used was [Heroku](https://id.heroku.com) however I was having problems on this platform and decided to deploy on [AWS](https://aws.amazon.com/pt/console/)
 Any questions about this deployment or why I used AWS in particular, please get in touch.
