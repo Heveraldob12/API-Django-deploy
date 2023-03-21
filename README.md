@@ -18,6 +18,7 @@ Cursos de API com o Django:
 Criação de uma APi com dados ficticios de clientes de algum produto.
 
 Essa Api servirá para treinar o refinamento de buscas, visualização, validação e deploy das api com o Django RestFramework
+
 ---
 
 API courses with Django: Creation of an API with fictitious data from customers of a product.
